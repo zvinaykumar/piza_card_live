@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://zvinaykumar.github.io/piza_card_live/static/css/main.2542784a.chunk.css",
+    "main.js": "https://zvinaykumar.github.io/piza_card_live/static/js/main.e30ecf55.chunk.js",
+    "main.js.map": "https://zvinaykumar.github.io/piza_card_live/static/js/main.e30ecf55.chunk.js.map",
+    "runtime-main.js": "https://zvinaykumar.github.io/piza_card_live/static/js/runtime-main.fe79c75e.js",
+    "runtime-main.js.map": "https://zvinaykumar.github.io/piza_card_live/static/js/runtime-main.fe79c75e.js.map",
+    "static/js/2.eae8b82a.chunk.js": "https://zvinaykumar.github.io/piza_card_live/static/js/2.eae8b82a.chunk.js",
+    "static/js/2.eae8b82a.chunk.js.map": "https://zvinaykumar.github.io/piza_card_live/static/js/2.eae8b82a.chunk.js.map",
+    "static/js/3.2737d443.chunk.js": "https://zvinaykumar.github.io/piza_card_live/static/js/3.2737d443.chunk.js",
+    "static/js/3.2737d443.chunk.js.map": "https://zvinaykumar.github.io/piza_card_live/static/js/3.2737d443.chunk.js.map",
+    "index.html": "https://zvinaykumar.github.io/piza_card_live/index.html",
+    "static/css/main.2542784a.chunk.css.map": "https://zvinaykumar.github.io/piza_card_live/static/css/main.2542784a.chunk.css.map",
+    "static/js/2.eae8b82a.chunk.js.LICENSE.txt": "https://zvinaykumar.github.io/piza_card_live/static/js/2.eae8b82a.chunk.js.LICENSE.txt",
+    "static/media/bainner.23dc6d49.png": "https://zvinaykumar.github.io/piza_card_live/static/media/bainner.23dc6d49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe79c75e.js",
+    "static/js/2.eae8b82a.chunk.js",
+    "static/css/main.2542784a.chunk.css",
+    "static/js/main.e30ecf55.chunk.js"
+  ]
+}
